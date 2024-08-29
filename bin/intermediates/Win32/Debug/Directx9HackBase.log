@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\dllmain.cpp(37,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\dllmain.cpp(37,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Directx9HackBase.vcxproj -> C:\Users\unknown\Desktop\Directx9HackBase\bin\Win32\Debug\Directx9HackBase.dll

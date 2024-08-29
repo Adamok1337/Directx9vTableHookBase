@@ -1,0 +1,19 @@
+﻿  dllmain.cpp
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\dllmain.cpp(37,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\dllmain.cpp(37,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  drawing.cpp
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(16,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(16,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(16,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(16,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(19,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(19,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(19,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\unknown\Desktop\Directx9HackBase\Directx9HackBase\drawing.cpp(19,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  dx.cpp
+  hook.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Directx9HackBase.vcxproj -> C:\Users\unknown\Desktop\Directx9HackBase\bin\Win32\Release\Directx9HackBase.dll

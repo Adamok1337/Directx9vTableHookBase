@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="dx">
+      <UniqueIdentifier>{d156c9b2-a4d3-4377-9928-46006cd9c810}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hook">
+      <UniqueIdentifier>{61f644db-81c3-46b7-8a2d-05b0a2062f5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hack">
+      <UniqueIdentifier>{f90b34f2-4263-4964-908d-d10cc571e4e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drawing">
+      <UniqueIdentifier>{f56d10eb-294f-488e-bdaf-2af2e368298e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="dx.cpp">
+      <Filter>dx</Filter>
+    </ClCompile>
+    <ClCompile Include="hook.cpp">
+      <Filter>hook</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>drawing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dx.h">
+      <Filter>dx</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>hook</Filter>
+    </ClInclude>
+    <ClInclude Include="hack.h">
+      <Filter>hack</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>drawing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
